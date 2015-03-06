@@ -1,0 +1,2 @@
+RPi.GPIO==0.5.8
+wiringpi2==1.0.10
